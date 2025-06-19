@@ -1,5 +1,4 @@
 chromadb
-hashlib
 boto3
 langchain
 langchain_chroma
